@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress'
-import enhanceAppGA from './enhanceAppGA.js'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
