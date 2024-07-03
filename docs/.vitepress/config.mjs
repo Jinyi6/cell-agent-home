@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import enhanceApp from './enhanceApp.js'
+import enhanceAppGA from './enhanceAppGA.js'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -33,5 +33,5 @@ export default defineConfig({
       noExternal: ['vuetify']
     }
   },
-  enhanceApp
+  enhanceAppGA
 })

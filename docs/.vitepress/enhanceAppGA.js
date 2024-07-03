@@ -1,4 +1,3 @@
-// enhanceApp.js
 export default ({ router }) => {
   if (typeof window !== 'undefined') {
     // Add Google Tag Manager script to head
