@@ -111,7 +111,7 @@ adata.obs['cell_type'] = adata.obs['leiden'].map(cluster_annotations)
             <template v-slot:subject><v-img src="/logo.png" /></template>
             <span class="bg-light-green-lighten-2">
               After an initial anlysis, 6 steps are required to complete your request:<br><br>
-              1.Quality Control<br>
+              1. Quality Control<br>
               2. Normalization<br>
               3. Identification of Highly<br>
               4. Dimensionality Reduction<br>
