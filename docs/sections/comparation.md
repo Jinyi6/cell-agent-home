@@ -13,11 +13,11 @@
           <v-container class="pa-0">
             <v-row no-gutters>
               <v-col>
-                <div style="font-size:84px">23.9%</div>
+                <div style="font-size:84px">24%</div>
                 <div>GPT-4</div>
               </v-col>
               <v-col class="text-light-green">
-                <div style="font-size:84px">96.0%</div>
+                <div style="font-size:84px">96%</div>
                 <div>CellAgent</div>
               </v-col>
             </v-row>

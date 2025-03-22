@@ -4,7 +4,7 @@ layout: home
 title: CellAgent
 hero:
   name: "CellAgent"
-  text: "An LLM-driven multi-agent framework for single-cell data analysis, ensuring high-quality results with minimal effort."
+  text: "An LLM-driven multi-agent framework for single-cell data analysis, <br>ensuring high-quality results with minimal effort."
   # tagline: My great project tagline
   actions:
     - theme: brand
