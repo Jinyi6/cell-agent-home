@@ -5,7 +5,7 @@
 <v-container class="mb-16 py-0 px-0">
   <v-row>
     <v-col cols="12" md="6">
-      <div class="mb-2 text-h5">Traditional scRNA-seq analysis</div>
+      <div class="mb-2 text-h5">Traditional single-cell analysis</div>
       <v-card
         border="surface-variant sm opacity-50"
         variant="text"

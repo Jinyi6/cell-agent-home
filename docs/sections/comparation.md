@@ -13,11 +13,11 @@
           <v-container class="pa-0">
             <v-row no-gutters>
               <v-col>
-                <div style="font-size:84px">47%</div>
+                <div style="font-size:84px">23.9%</div>
                 <div>GPT-4</div>
               </v-col>
               <v-col class="text-light-green">
-                <div style="font-size:84px">92%</div>
+                <div style="font-size:84px">96.0%</div>
                 <div>CellAgent</div>
               </v-col>
             </v-row>
@@ -51,6 +51,6 @@
 
 <div class="text-caption">
 
-\* In typical scRNA-seq data analysis tasks, CellAgent's performance can reach 107.23% compared to the widely used and effective existing algorithms.<br>
-** The tasks referred to here mainly include batch effect correction, cell type annotation, and trajectory inference, corresponding to the existing algorithms Scanorama, GPT-4 annotation, and Slingshot, respectively.
+\* In typical single-cell data analysis tasks, CellAgent's performance can reach 107.23% compared to the widely used and effective existing algorithms.<br>
+** The tasks mentioned here primarily include batch correction, cell type annotation, trajectory inference, spatial domain identification, and spatial transcriptomics imputation, corresponding to existing algorithms such as Scanorama, CellMarker, Slingshot, DeepST, and Tangram, respectively.
 </div>

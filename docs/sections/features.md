@@ -13,7 +13,7 @@
   <v-tabs-window-item value="0">
     <demo-frame no-thought>
       <template v-slot:description>
-        For complex scRNA-seq data analysis tasks, CellAgent can emulate the process of a human expert by first breaking down the task into sub-steps and then executing them sequentially.
+        For complex single-cell data analysis tasks, CellAgent can emulate the process of a human expert by first breaking down the task into sub-steps and then executing them sequentially.
       </template>
       <template v-slot:input>
         This is a classic single-cell data analysis dataset, consisting of 3k human peripheral blood mononuclear cells from a healthy donor. Please perform the cell type annotation task.

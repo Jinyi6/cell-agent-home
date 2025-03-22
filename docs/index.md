@@ -4,7 +4,7 @@ layout: home
 title: CellAgent
 hero:
   name: "CellAgent"
-  text: "An LLM-driven agent for single-cell data analysis, ensuring high-quality results with minimal effort."
+  text: "An LLM-driven multi-agent framework for single-cell data analysis, ensuring high-quality results with minimal effort."
   # tagline: My great project tagline
   actions:
     - theme: brand
@@ -65,9 +65,9 @@ CellAgent can streamline your single-cell data analysis workflow, allowing you t
 
 <div class="mx-8 px-4">
 
-* **Automate Analysis:** From data preprocessing to conclusions, CellAgent automates the entire analysis process, significantly reducing manual intervention and allowing you to focus more on scientific discoveries.
+* **Automate Analysis:** CellAgent simulates "deep-thinking" with a hierarchical multi-agent framework, automating the entire analysis process from data preprocessing to conclusions, minimizing manual effort, and enabling greater focus on scientific discoveries.
 * **Interactively Query:** Through continuous dialogue, you can submit new requests seamlessly. CellAgent will strive to meet your needs and provide real-time analysis and response.
-* **Obtain Reliable Conclusions:** CellAgent employs a unique self-iterative optimization mechanism that ensures the reliability and high quality of results throughout the processing.
+* **Obtain Reliable Conclusions:** CellAgent employs a unique self-reflective optimization mechanism that ensures the reliability and high quality of results throughout the processing.
 </div>
 
 <div class="mt-16"></div>
